@@ -8,7 +8,7 @@ Arquivo principal
 Colunas
 - `month`: mês de referência (YYYY-MM)
 - `volume_total`: total de migrações concluídas no mês
-- `sucesso_72h`: migrações concluídas em ≤72h no mês
+- `sucesso_72h`: migrações concluídas em ≤ 72 horas no mês
 
 Cobertura
 - julho/2020 a junho/2025 (60 meses)
